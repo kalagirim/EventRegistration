@@ -1,0 +1,21 @@
+
+body {
+    text-align: center;
+    font-family: Arial;
+    background-color: lightblue;
+}
+
+form {
+    margin: 30px;
+}
+
+input {
+    display: block;
+    margin: 10px auto;
+    padding: 10px;
+}
+
+button {
+    padding: 10px;
+    cursor: pointer;
+}
